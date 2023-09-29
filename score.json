@@ -1,9 +1,9 @@
 {
    "label": "score",
    "labelColor": "#a89888",
-   "message": "A",
+   "message": "AIL",
    "color": "#33D17A",
    "style": "for-the-badge",
    "logo": "gnome",
-   "logoColor": "white
-}
+   "logoColor": "white"
+ }
